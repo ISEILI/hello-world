@@ -42,10 +42,10 @@ Here's a sentence with a love. [^1]
 - [ ] Update the website
 - [ ] Contact the media
 
-That is so funny! :joy:
+ :sleepy:
 
 I need to highlight these ==very important words==.
 
 H~2~O
 
-X^2^
+X^x^
